@@ -5,6 +5,9 @@
 - typescript
 - react.js
 - next.js
+- useSWR
+- redux-toolkit
+- redux-saga
 - styled-components
 - node.js
 - express.js
