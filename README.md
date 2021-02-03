@@ -18,7 +18,6 @@
 - [ ] CI/CD
 - [ ] 프론트 TC코드 작성 여부
 - [ ] 백엔드 테스트 코드 작성 여부
-- [X]atomic한 컴포넌트를 따로 프로젝트로 작성하고 npm 에 올려서 사용할까? with storybook
 
 ## 참고할 문서들
 - [next.js](https://nextjs.org/)
